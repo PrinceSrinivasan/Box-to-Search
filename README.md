@@ -27,7 +27,7 @@ A premium Windows-integrated screenshot OCR and Translation utility built with P
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/PrinceSrinivasan/Box-to-Search.git
-   cd "rectangle to search"
+   cd "Box to Search"
    ```
 
 2. **Install the dependencies**:
