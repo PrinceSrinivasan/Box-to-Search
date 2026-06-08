@@ -99,6 +99,7 @@ class ResultsWindow:
         self.image = cropped_image
         self.ocr_text = ""
         self.languages = translator.get_languages()
+        self.lang_names = sorted(list(self.languages.keys()))
         self.config = config_manager.load_config()
         self.is_speaking = False
         self.speaker = None
